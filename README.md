@@ -12,7 +12,7 @@ To gain meaningful insights, the following EDA steps were performed:
    - Removed duplicates and handled missing values.  
    - Addressed outliers in key variables such as monetary value and frequency of purchases.  
 
-2. **Data Transformation**:  
+2. **Feature Engineering**:  
    - Calculated **Recency**, **Frequency**, and **Monetary Value (RFM)** for each customer.  
    - Normalized features to ensure fair comparison during clustering.  
 
@@ -43,9 +43,4 @@ To gain meaningful insights, the following EDA steps were performed:
 
 Each cluster represents distinct customer personas that can be targeted for tailored marketing strategies.  
 
----
-
-## Future Scope  
-- Extend the analysis by integrating external features like demographics or social media activity.  
-- Apply advanced clustering algorithms (e.g., DBSCAN or Hierarchical Clustering) for comparative insights.  
-- Automate customer segmentation pipelines for real-time use cases.  
+---  
