@@ -1,4 +1,4 @@
-# Customer Segmentation Using Clustering  
+# Customer Segmentation for an Online Retail Business  
 
 ## Project Motivation  
 Understanding customer behavior is crucial for developing targeted marketing strategies and optimizing resource allocation. This project segments customers based on their purchasing habits to create actionable insights. By identifying distinct customer clusters, businesses can personalize their approach to nurturing, retaining, and engaging customers, ultimately enhancing customer satisfaction and boosting revenue.  
